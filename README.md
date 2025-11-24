@@ -1,5 +1,13 @@
-## ✅ How to Run a Django Project from GitHub
+ Create and activate a virtual environment
+# Create venv
+python -m venv env
 
+# Activate venv
+# On Windows
+env\Scripts\activate
 
-## pip install -r requirements.txt
-## python manage.py migrate
+# On macOS / Linux
+source env/bin/activate
+
+ Install dependencies
+pip install -r requirements.txt
