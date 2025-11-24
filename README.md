@@ -1,4 +1,4 @@
-##✅  Create and activate a virtual environment
+✅  Create and activate a virtual environment
 # Create venv
 python -m venv env
 
