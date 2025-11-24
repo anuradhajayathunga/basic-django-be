@@ -9,5 +9,5 @@ env\Scripts\activate
 # On macOS / Linux
 source env/bin/activate
 
- Install dependencies
+# Install dependencies
 pip install -r requirements.txt
